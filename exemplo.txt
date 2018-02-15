@@ -4,3 +4,8 @@ Exemplo de merge com conflito
 
 =) =) =)
 
+
+
+Outra modificação
+
+
